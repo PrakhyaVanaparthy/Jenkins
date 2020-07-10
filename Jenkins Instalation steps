@@ -25,4 +25,4 @@ sudo systemctl start jenkins
 
 # Step 8 - Enable the service to load during boot
 sudo systemctl enable jenkins
-sudo systemctl status jenkins
+sudo systemctl status jenkins.
